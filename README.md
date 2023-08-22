@@ -3,6 +3,9 @@
   - 调整搜索接口暂只支持搜索文章
   - 搜索接口中增加封面和摘要，可配置：```false```表示不生成
 
+## 成品展示
+![成品展示](https://www.bmqy.net/images/gh_aff1932da342_258.jpg)
+
 ## Install
 
 ```bash
