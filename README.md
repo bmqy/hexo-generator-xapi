@@ -4,7 +4,7 @@
   - 搜索接口中增加封面和摘要，可配置：```false```表示不生成
 
 ## 成品展示
-![成品展示](https://www.bmqy.net/images/gh_aff1932da342_258.jpg)
+![成品展示](https://image.bmqy.net/images/gh_aff1932da342_258.jpg)
 
 ## Install
 
